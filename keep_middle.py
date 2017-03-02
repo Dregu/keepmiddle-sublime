@@ -6,7 +6,6 @@ Requires package MouseEventListener to fix selecting text with mouse.
 """
 
 import sublime, sublime_plugin
-from functools import reduce
 try:
 	import mouse_event_listener
 except:

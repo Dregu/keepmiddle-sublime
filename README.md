@@ -5,7 +5,7 @@ Requires MouseEventListener to fix selecting text with mouse.
 
 ## Installation
 Get ```MouseEventListener``` from package manager.
-``
+```
 cd ~/.config/sublime-text-3/Packages
 git clone https://github.com/Dregu/keepmiddle-sublime.git KeepMiddle
 ```
